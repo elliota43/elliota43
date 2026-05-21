@@ -1,5 +1,15 @@
 # elliot
 
+
+![C](https://img.shields.io/badge/c-000000?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-000000?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-000000?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/zig-000000?style=flat-square&logo=zig&logoColor=white)
+![Odin](https://img.shields.io/badge/odin-000000?style=flat-square&logo=odin&logoColor=white)
+![Objective-C](https://img.shields.io/badge/objective--c-000000?style=flat-square&logo=apple&logoColor=white)
+![ARM64](https://img.shields.io/badge/arm64-000000?style=flat-square&logo=arm&logoColor=white)
+
 systems programmer. I like understanding how things work at the lowest level.
 
 ***
@@ -20,6 +30,7 @@ systems programmer. I like understanding how things work at the lowest level.
 
 - networking stacks & protocols.  i love sending and receiving data over the wire.
 - terminal apps and cli tools
+- parsers
 
 ***
 
