@@ -12,6 +12,9 @@ systems programmer. I like understanding how things work at the lowest level.
 
 ### languages
 
+[●●●] c · go · php · c++
+[●●○] rust · zig · odin · objective-c
+[●○○] arm64 asm
 
 ### things i like building
 
